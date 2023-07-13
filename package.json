@@ -27,7 +27,7 @@
     "@progress/kendo-angular-upload": "^5.2.1",
     "@progress/kendo-theme-default": "^4.17.0",
     "jquery": "^3.5.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "ngx-webcam": "^0.3.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
